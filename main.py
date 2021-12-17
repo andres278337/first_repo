@@ -1,1 +1,2 @@
-# este es el main
+if __name__ == '__main__':
+    print('Mi primera línea.')
